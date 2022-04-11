@@ -2,19 +2,23 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-08T15:58:31 IST" name="Default suite" finished-at="2022-04-08T15:59:03 IST" duration-ms="31929">
+  <suite started-at="2022-04-11T17:10:41 IST" name="Default suite" finished-at="2022-04-11T17:11:13 IST" duration-ms="31178">
     <groups>
     </groups>
-    <test started-at="2022-04-08T15:58:31 IST" name="Default test" finished-at="2022-04-08T15:59:03 IST" duration-ms="31929">
+    <test started-at="2022-04-11T17:10:41 IST" name="Default test" finished-at="2022-04-11T17:11:13 IST" duration-ms="31178">
       <class name="Ecommerce.Aarnalifestyle.loginTest">
-        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:Ecommerce.Aarnalifestyle.loginTest@6404f418]" started-at="2022-04-08T15:58:31 IST" name="BrowserSetup" finished-at="2022-04-08T15:58:42 IST" duration-ms="10519" status="PASS">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:Ecommerce.Aarnalifestyle.loginTest@3f0846c6]" started-at="2022-04-11T17:10:41 IST" name="BrowserSetup" finished-at="2022-04-11T17:10:55 IST" duration-ms="13157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserSetup -->
-        <test-method signature="login()[pri:0, instance:Ecommerce.Aarnalifestyle.loginTest@6404f418]" started-at="2022-04-08T15:58:42 IST" name="login" finished-at="2022-04-08T15:59:03 IST" duration-ms="21355" status="PASS">
+        <test-method signature="login()[pri:0, instance:Ecommerce.Aarnalifestyle.loginTest@3f0846c6]" started-at="2022-04-11T17:10:55 IST" name="login" finished-at="2022-04-11T17:11:12 IST" duration-ms="17252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:Ecommerce.Aarnalifestyle.loginTest@3f0846c6]" started-at="2022-04-11T17:11:12 IST" name="browserClose" finished-at="2022-04-11T17:11:13 IST" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
       </class> <!-- Ecommerce.Aarnalifestyle.loginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
