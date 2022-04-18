@@ -8,10 +8,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
-
-import com.aventstack.extentreports.model.Log;
-
 import Ecommerce.pageObjects.loginPageobj;
+import resources.baseClass;
 
 
 public class loginTest extends baseClass {
@@ -33,8 +31,11 @@ public class loginTest extends baseClass {
 		wait.until(ExpectedConditions.visibilityOf(newslater));
 		lp.Newsletterdisplay();
 		lp.NewsLetterpopup();
-		log.error("this is error i ");
-
+		log.error("this is error");
+		log.info("This is info");
+		log.fatal("This is Fatal");
+		log.warn("This is Warning");
+		log.fatal("This is Fatal2");
 	}
 
 }

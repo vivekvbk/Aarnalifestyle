@@ -1,0 +1,18 @@
+17:05:14.418 [main] INFO  resources.baseClass - ------Browser Started-----
+17:05:38.478 [main] ERROR Ecommerce.Aarnalifestyle.loginTest - this is error
+17:05:38.479 [main] INFO  Ecommerce.Aarnalifestyle.loginTest - This is info
+17:05:38.479 [main] FATAL Ecommerce.Aarnalifestyle.loginTest - This is Fatal
+17:05:38.479 [main] WARN  Ecommerce.Aarnalifestyle.loginTest - This is Warning
+17:05:38.479 [main] FATAL Ecommerce.Aarnalifestyle.loginTest - This is Fatal2
+17:06:12.260 [main] INFO  resources.baseClass - ------Browser Started-----
+17:06:40.320 [main] ERROR Ecommerce.Aarnalifestyle.loginTest - this is error
+17:06:40.333 [main] INFO  Ecommerce.Aarnalifestyle.loginTest - This is info
+17:06:40.333 [main] FATAL Ecommerce.Aarnalifestyle.loginTest - This is Fatal
+17:06:40.333 [main] WARN  Ecommerce.Aarnalifestyle.loginTest - This is Warning
+17:06:40.334 [main] FATAL Ecommerce.Aarnalifestyle.loginTest - This is Fatal2
+17:09:43.169 [main] INFO  resources.baseClass - ------Browser Started-----
+17:10:07.091 [main] ERROR Ecommerce.Aarnalifestyle.loginTest - this is error
+17:10:07.091 [main] INFO  Ecommerce.Aarnalifestyle.loginTest - This is info
+17:10:07.092 [main] FATAL Ecommerce.Aarnalifestyle.loginTest - This is Fatal
+17:10:07.092 [main] WARN  Ecommerce.Aarnalifestyle.loginTest - This is Warning
+17:10:07.092 [main] FATAL Ecommerce.Aarnalifestyle.loginTest - This is Fatal2

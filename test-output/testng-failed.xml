@@ -5,9 +5,9 @@
     <classes>
       <class name="Ecommerce.Aarnalifestyle.loginTest">
         <methods>
-          <include name="BrowserSetup"/>
-          <include name="login"/>
           <include name="browserClose"/>
+          <include name="login"/>
+          <include name="BrowserSetup"/>
         </methods>
       </class> <!-- Ecommerce.Aarnalifestyle.loginTest -->
     </classes>
